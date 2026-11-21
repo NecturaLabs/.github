@@ -1,0 +1,5 @@
+A minimal, modern logo mark for NecturaLabs, an independent software studio that makes developer tools, desktop apps and games. SQUARE 1:1 frame, an app-icon style emblem, not a scene.
+One bold subject, centered with generous empty margin on every side: an abstract geometric monogram of the capital letter N, built from two thick rounded vertical bars joined by one thick diagonal stroke. The diagonal stroke is a glowing neon trail of light that blends smoothly from deep electric violet at the top left to bright cyan at the bottom right; the two vertical bars are solid soft violet. A small bright glowing dot, like a distant star or moon, sits just above the top right of the N.
+Flat vector style with only a subtle soft glow, crisp clean edges, perfectly symmetric proportions, no texture, no noise, no 3D bevel.
+Background: solid, smooth, empty deep midnight navy-black (near #0e0b1a) with a very faint violet radial glow behind the mark.
+No words, no letters other than the single N shape, no text, no watermark, no border, no frame. Readable at 32 pixels.
